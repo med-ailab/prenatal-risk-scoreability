@@ -1,3 +1,36 @@
+> **Med AI Lab · Innopolis University**  
+> Code and data released alongside a peer-reviewed publication.  
+> Original repository by [Vache Oganisyan](https://github.com/vache4ogan): <https://github.com/vache4ogan/prenatal-risk-scoreability>
+
+---
+
+A four-cell audit that separates broader eligibility from added capacity in top-fraction clinical risk worklists, applied to prenatal risk scores on CDC Natality data.
+
+### Paper
+
+- **Same Top Fraction, Different Workload: Auditing Eligibility and Capacity in Clinical Risk Evaluation**  
+  V. Oganisyan, D. Lvov, I. Pershin  
+  *NeurIPS 2026, Can We Trust AI Evaluation? workshop* · [link](https://openreview.net/forum?id=puYbvC47rw)
+
+### About the lab
+
+The **Med AI Lab** at Innopolis University works on medical AI in which the clinician is part
+of the system rather than its user: eye tracking of radiologists, gaze as a supervision signal
+for medical imaging, electronic health records, and the modelling of human attention in
+language models.
+
+[Website](https://ilya-pershin.com/lab/) · [Publications](https://ilya-pershin.com/publications/) · [All code](https://github.com/med-ailab) · i.pershin@innopolis.ru
+
+### License
+
+MIT, as in the original repository.
+
+---
+
+*Everything below is the original README from [vache4ogan/prenatal-risk-scoreability](https://github.com/vache4ogan/prenatal-risk-scoreability), left unchanged.*
+
+---
+
 # Same Top Fraction, Different Workload: Auditing Eligibility and Capacity in Clinical Risk Evaluation
 
 **TAE (Trust-AI-Eval), NeurIPS 2026 | Accepted poster, non-archival**
